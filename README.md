@@ -1,5 +1,4 @@
 # Time-Series-Forecasting-and-Portfolio-Construction-
-# Time Series Forecasting Models
 
 This repository contains Jupyter notebooks implementing two popular time series forecasting models: Long Short-Term Memory (LSTM) and AutoRegressive Integrated Moving Average (ARIMA).
 
