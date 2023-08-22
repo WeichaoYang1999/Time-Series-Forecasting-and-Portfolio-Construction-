@@ -15,8 +15,3 @@ This repository contains two methods for time series forecasting using Long Shor
 - Pandas
 - NumPy
 - Matplotlib
-
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/yourusername/yourrepository.git
